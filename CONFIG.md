@@ -15,7 +15,7 @@ Horse Racing
 
 > This is the description of the feed.
 
-Come talk horse racing on Bluesky! Use the tag #horseracing or the 🏇 emoji to put posts on the feed, and pin it to keep up with the conversation! 
+Come talk horse racing on Bluesky! Use the tag #horseracing or the 🏇 emoji to join the conversation, and pin it to keep up with the conversation! 
 
 # searchTerms
 
