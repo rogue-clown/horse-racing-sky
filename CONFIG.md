@@ -27,6 +27,12 @@ Come talk horse racing on Bluesky! Use the tag #horseracing or the 🏇 emoji to
 
 - #horseracing
 - 🏇
+- https://bsky.app/profile/horseracingnation.bsky.social
+- https://bsky.app/profile/dailyracingform.bsky.social
+- https://bsky.app/profile/paulickreport.bsky.social
+- https://bsky.app/profile/thetdn.bsky.social
+- https://bsky.app/profile/idolhorse.bsky.social
+- https://bsky.app/profile/eclipsesportswire.bsky.social
 
 # safeMode
 
